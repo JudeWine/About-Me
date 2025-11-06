@@ -204,10 +204,18 @@
 
 ## ⚡ Status
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JudeWine&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JudeWine&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JudeWine&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JudeWine&theme=algolia&utcOffset=8)
+---
+
+### 📈 **GitHub Analytics**
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+<p align="center">
+  <a href="https://app.daily.dev/superdev947"><img src="./devcard.png" width="356" alt="superdev947's Dev Card"/></a>
+</p>
+
+---
 
 <div align="center">
  <picture>
